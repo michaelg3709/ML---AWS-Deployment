@@ -1,4 +1,4 @@
-<h1> Use Machine Learning to Predict Churning Customers and Their Features <h1>
+<h1> Use Machine Learning to Predict Churning Customers and Their Features </h1>
 
 Domain Background
 
