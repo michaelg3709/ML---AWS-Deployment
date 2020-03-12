@@ -79,19 +79,23 @@ The evaluation metric for this problem will be accuracy score.
 When tuning the model we will factor in precision and recall to limit the number of false negatives and positives.
 
 <h3>Project Design</h3>
+
 Notebook 1
-Data Preprocessing:
+	Data Preprocessing:
 * Identify different data types
 * Clean the data
-Data Analysis:
+
+	Data Analysis:
 * Visualise churning customers
 * Visualise categorical features
 * Plot the feature importance as a heat map
+
 Notebook 2
 * Model Training and Evaluation on 10 SKlearn algorithms.
 * Model Training and Evaluation on an ensemble classifier of the 3 best classifiers.
 * Tuning of the best classifier
 * Visualisation of the most important features.
+
 Notebook 3
 * Model Training and Deployment to AWS S3 of a LinearLeaner classifier.
 * Evaluation and tuning of the hyperparameters of the model
