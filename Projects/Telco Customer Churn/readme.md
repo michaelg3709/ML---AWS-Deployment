@@ -81,14 +81,15 @@ When tuning the model we will factor in precision and recall to limit the number
 <h3>Project Design</h3>
 
 Notebook 1
+
 	Data Preprocessing:
-* Identify different data types
-* Clean the data
+	* Identify different data types
+	* Clean the data
 
 	Data Analysis:
-* Visualise churning customers
-* Visualise categorical features
-* Plot the feature importance as a heat map
+	* Visualise churning customers
+	* Visualise categorical features
+	* Plot the feature importance as a heat map
 
 Notebook 2
 * Model Training and Evaluation on 10 SKlearn algorithms.
