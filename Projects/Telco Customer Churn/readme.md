@@ -92,16 +92,18 @@ Notebook 1
 	* Plot the feature importance as a heat map
 
 Notebook 2
-* Model Training and Evaluation on 10 SKlearn algorithms.
-* Model Training and Evaluation on an ensemble classifier of the 3 best classifiers.
-* Tuning of the best classifier
-* Visualisation of the most important features.
+
+	* Model Training and Evaluation on 10 SKlearn algorithms.
+	* Model Training and Evaluation on an ensemble classifier of the 3 best classifiers.
+	* Tuning of the best classifier
+	* Visualisation of the most important features.
 
 Notebook 3
-* Model Training and Deployment to AWS S3 of a LinearLeaner classifier.
-* Evaluation and tuning of the hyperparameters of the model
-* Visualisation of the most important features.
-* Recommendations for lowering churn
+
+	* Model Training and Deployment to AWS S3 of a LinearLeaner classifier.
+	* Evaluation and tuning of the hyperparameters of the model
+	* Visualisation of the most important features.
+	* Recommendations for lowering churn
 
 <h3>References</h3>
 
