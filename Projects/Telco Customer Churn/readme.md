@@ -7,6 +7,7 @@ In order to succeed at retaining customers, the business must be able to
 (a) predict in advance which customers will churn; and
 (b) know which actions will have the greatest retention on each particular customer.
 So the main objectives of this project will be to use Machine Learning techniques to classify ‘churning’ customers and their attributes for a given business dataset.
+
 Problem Statement
 Every business has customers that cease doing business with them. Failing to deal with churning customers has major consequences on a business, so the ability to predict and inhibit these customers from leaving is a must.
 The business goal of this exercise is to apply Machine Learning techniques to:
@@ -19,8 +20,8 @@ For this project we will use a dataset called Telco Customer Churn dataset from 
 This dataset contains a total of 7043 rows. Each row is unique for a customer and is identified using customerID. The target column for classification is ‘Churn’.
    
  The dataset contain total 21 columns whose details are listed below:
-● CustomerID - Customer ID
-● Gender - Customer gender (female, male)
+* CustomerID - Customer ID
+* Gender - Customer gender (female, male)
 ● SeniorCitizen - Whether the customer is a senior citizen or not (1, 0)
 ● Partner -Whether the customer has a partner or not (Yes, No)
 ● Dependents - Whether the customer has dependents or not (Yes, No)
