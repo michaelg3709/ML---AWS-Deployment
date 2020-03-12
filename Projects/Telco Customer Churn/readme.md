@@ -1,8 +1,11 @@
 Domain Background
 Customer churn occurs when a customer (player, subscriber, user, etc.) ceases his or her relationship with a company.
 The ability to predict that a customer is at a high risk of churning, while there is still time to do something about it, represents a huge additional potential revenue source for every business.
+
 The full cost of a churning customer includes both lost revenue, marketing costs involved with replacing those customers with new ones and that the costs of initially acquiring that customer may not have already been covered by the customer’s spending to date. It is always more difficult and expensive to acquire a new customer than it is to retain a current paying customer.
+
 Businesses that fail to address churn suffer further debilitating consequences in reduced attractiveness to investors and doubts about their future viability. It’s essential to measure, monitor, and reduce churn. ​Reducing churn is a key business goal of every business.
+
 In order to succeed at retaining customers, the business must be able to
 (a) predict in advance which customers will churn; and
 (b) know which actions will have the greatest retention on each particular customer.
@@ -10,6 +13,7 @@ So the main objectives of this project will be to use Machine Learning technique
 
 Problem Statement
 Every business has customers that cease doing business with them. Failing to deal with churning customers has major consequences on a business, so the ability to predict and inhibit these customers from leaving is a must.
+
 The business goal of this exercise is to apply Machine Learning techniques to:
 1. Analyze customer specific data to understand who could be the next potential customers to
 leave the business.
